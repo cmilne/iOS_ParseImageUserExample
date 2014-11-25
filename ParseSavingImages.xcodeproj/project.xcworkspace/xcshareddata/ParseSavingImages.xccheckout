@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AD76E5B0-F968-40FE-B51E-3C3C2164A857</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParseSavingImages</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>27F9DD5FB4987619A51920EDDED87C09C5A28E3D</key>
+		<string>https://github.com/ParsePlatform/SavingImagesTutorial.git</string>
+		<key>CAAF6D7CA53D11CCD738CDC2D1FE4F441BE50CD5</key>
+		<string>https://github.com/ideo/kidCoin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ParseSavingImages/ParseSavingImages.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>27F9DD5FB4987619A51920EDDED87C09C5A28E3D</key>
+		<string>../../..ParseSavingImagesTut/</string>
+		<key>CAAF6D7CA53D11CCD738CDC2D1FE4F441BE50CD5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ideo/kidCoin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CAAF6D7CA53D11CCD738CDC2D1FE4F441BE50CD5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CAAF6D7CA53D11CCD738CDC2D1FE4F441BE50CD5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kidCoin</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>27F9DD5FB4987619A51920EDDED87C09C5A28E3D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ParseSavingImagesTut</string>
+		</dict>
+	</array>
+</dict>
+</plist>
